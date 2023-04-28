@@ -1,6 +1,6 @@
 {
-    "name": "ol_countdown_1",
-    "short_name": "ol_countdown_1",
+    "name": "g_sheet_note",
+    "short_name": "g_sheet_note",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
